@@ -1,6 +1,6 @@
 # Hi there, I'm Laura Marcela 👋
 
-### 👩‍💻 Software Engineer | Digital Health & Interoperability Specialist | UX/UI Designer
+### 👩‍💻 Software Engineer | Digital Health, Medical Software & UX/UI Specialist
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lauramarcelasape/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-I am a **Software Engineer** specializing in mission-critical systems and interoperability within the **Digital Health** sector.
+I am a **Software Engineer** passionate about building robust software solutions for the **healthcare sector**.
 
 - 🎓 **Graduated in Software Engineering** — *Universidad de Oviedo*
 - 🎨 **Master's Degree in UX/UI Design** — *UNIR*
@@ -29,8 +29,7 @@ I am a **Software Engineer** specializing in mission-critical systems and intero
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-### 🏥 Health Tech & Interoperability
+### 🏥 Health Tech, Medical Software & Interoperability
 ![HL7 v2.x](https://img.shields.io/badge/HL7_v2.x-00599C?style=for-the-badge&logo=health&logoColor=white)
 ![HL7 CDA](https://img.shields.io/badge/HL7_CDA-00599C?style=for-the-badge&logo=health&logoColor=white)
 ![Mirth Connect](https://img.shields.io/badge/Mirth_Connect-22B573?style=for-the-badge&logo=connect&logoColor=white)
@@ -40,7 +39,6 @@ I am a **Software Engineer** specializing in mission-critical systems and intero
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -55,4 +53,3 @@ I am a **Software Engineer** specializing in mission-critical systems and intero
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauramarcelasape&theme=tokyonight&hide_border=true" width="97%" />
 </p>
-
